@@ -111,7 +111,8 @@ body{
     flex-shrink: 0;
 
     border-radius: 40px;
-    background-image: url(asset/Rectangle\ 1.png), lightgray 50% / cover no-repeat, linear-gradient(180deg, #AAB 0%, rgba(170, 170, 187, 0.00) 100%);
+    background-image: url("layar.png");
+    background-size: cover;
 }
 
 h1 {
