@@ -2,7 +2,7 @@
 body{
     font-family: "Avenir Next";
   }
-  
+
   li {
     display: flex;
     padding: 12px 0px;
@@ -92,7 +92,6 @@ body{
     font-weight: 500;
     line-height: 140%; /* 19.6px */
 }
-
 
 /* INI BODY */
 .body-header {
